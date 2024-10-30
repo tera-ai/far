@@ -1,0 +1,26 @@
+# Video & Image Processing
+ffmpeg
+libsm6
+libxext6
+libxrender1
+libglib2.0-0
+
+# OpenGL dependencies (for Open3D)
+libopengl0
+libgl1-mesa-glx
+libgomp1
+
+# Compression
+unzip
+wget
+
+# Development
+build-essential
+pkg-config
+
+# Optional but commonly needed
+cmake
+git
+
+# Add new system packages below with comments
+# package-name  # purpose/dependency
